@@ -1,0 +1,12 @@
+{
+  "ordrers": [
+    {
+      "name": "bob",
+      "phone": "5555555",
+      "mail": "bob@mail.ru",
+      "product": "JS",
+      "date": "11.11.11",
+      "time": "12.12.12"
+    }
+  ]
+}
